@@ -2,11 +2,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.:660612162
 
-ชื่อ-สกุล :
+ชื่อ-สกุล :อภิชา เลิศจินตนากิจ
 
----
+--- vercel link:lab09-2567-33r63vh3r-apicha-lerdjintanakits-projects.vercel.app
 
 โปรเจคนี้สร้างขึ้นด้วย Next.js (TypeScript)
 หลังจากการ Fork และ Clone repository แล้ว, ให้เปิดโฟลเดอร์ด้วย VSCode และรันคำสั่งต่อไปนี้ใน terminal:
